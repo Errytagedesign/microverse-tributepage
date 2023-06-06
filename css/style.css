@@ -7,8 +7,14 @@
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
-    "Helvetica Neue", Arial, sans-serif;
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Roboto",
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
@@ -26,9 +32,11 @@ body {
 #title h2 {
   font-size: 2.5rem;
 }
+
 #title p {
   font-size: 0.9rem;
 }
+
 /* ==== Image section start ==== */
 
 #img-div {
@@ -45,6 +53,7 @@ body {
   height: auto;
   margin: 0 auto;
 }
+
 #img-caption {
   margin: 15px 0 5px 0;
   font-size: 1rem;
@@ -91,4 +100,5 @@ footer h4 {
   font-size: 1.1rem;
   margin: 20px 0;
 }
+
 /* ==== Footer End ==== */
